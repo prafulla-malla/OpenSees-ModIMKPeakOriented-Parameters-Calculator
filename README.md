@@ -2,7 +2,7 @@
 A calculator of ModIMKPeakOriented uniaxial material parameters required to launch OpenSees analysis.
 
 # What is OpenSees?
-![OpenSees Logo](https://peer.berkeley.edu/sites/default/files/styles/openberkeley_brand_widgets_rectangle/public/os_new_1.jpg?itok=HHXcMbOR | width=300)
+![OpenSees Logo](https://peer.berkeley.edu/sites/default/files/styles/openberkeley_brand_widgets_rectangle/public/os_new_1.jpg?itok=HHXcMbOR = 300)
 OpenSees is a software framework for developing applications to simulate the performance of structural and geotechnical systems subjected to earthquakes.
 The goal of the OpenSees development is to improve the modeling and computational simulation in earthquake engineering through open-source development.
 
