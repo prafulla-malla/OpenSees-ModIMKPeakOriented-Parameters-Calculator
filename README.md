@@ -11,6 +11,11 @@ source: https://opensees.berkeley.edu/index.php
 # What is ModIMKPeakOriented?
 It is a material that simulates a modified Ibarra-Medina-Krawinkler deterioration model with peak-oriented hysteretic response developed by Lignos and Krawinkler in 2012.
 
+# Instructions
+1) Download this repository;
+2) Open the file "main.m" and assign section dimensions, materials and force value;
+3) Run main.m
+
 # Author
 Author: Vincenzo Tartaglia
 
