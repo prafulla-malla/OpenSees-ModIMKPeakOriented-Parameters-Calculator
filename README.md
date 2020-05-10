@@ -1,5 +1,5 @@
 # OpenSees ModIMKPeakOriented Parameters Calculator
-A calculator of ModIMKPeakOriented uniaxial material parameters required to launch OpenSees analysis.
+A Matlab script that calculates the ModIMKPeakOriented uniaxial material parameters required to launch OpenSees analysis.
 
 # What is OpenSees?
 <img src="https://peer.berkeley.edu/sites/default/files/styles/openberkeley_brand_widgets_rectangle/public/os_new_1.jpg?itok=HHXcMbOR" width="300">
