@@ -1,5 +1,5 @@
 # OpenSees ModIMKPeakOriented Parameters Calculator
-A Matlab script that calculates the ModIMKPeakOriented uniaxial material parameters required to launch OpenSees analysis for buiding seismic performance.
+A Matlab script that calculates the ModIMKPeakOriented uniaxial material parameters required to launch OpenSees analysis for structure seismic performance.
 
 # What is ModIMKPeakOriented?
 It is a material that simulates a modified Ibarra-Medina-Krawinkler deterioration model in **OpenSees** with peak-oriented hysteretic response developed by Lignos and Krawinkler in 2012.
